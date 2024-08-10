@@ -148,8 +148,8 @@ Our commitment to excellence is matched only by our dedication to customer satis
           </div>
           <div className="col-sm">
             <p className="p_txt fw-bold">Stay Connected</p>
-            <p><a href="" className="text-black">Facebook</a></p>
-            <p><a href="" className="text-black">Instagram</a></p>
+            <p><a href="https://www.facebook.com/share/wncm6tWVHSznXuW8/?mibextid=qi2Omg" className="text-black">Facebook</a></p>
+            <p><a href="https://www.instagram.com/" className="text-black">Instagram</a></p>
           </div>
          
         </div>
