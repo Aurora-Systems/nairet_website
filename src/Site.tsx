@@ -72,6 +72,49 @@ Our commitment to excellence is matched only by our dedication to customer satis
           </div>
 
         </div>
+        <div className="text-center text-white">
+          <h3 className="fw-bold">Our Core Values</h3>
+          <div className="row m-2 p-3 gap-2">
+            <div className="col-sm border border-3 rounded border-white   d-flex justify-content-center align-items-center text-center">
+            <span className="fw-bold">RESPECT</span>
+            </div>
+            <div className="col-sm border border-3 rounded border-white d-flex justify-content-center align-items-center text-center">
+            <span className="fw-bold">ACCOUNTABILITY</span>
+            </div>
+            <div className="col-sm border border-3 rounded border-white d-flex justify-content-center align-items-center text-center">
+            <span className="fw-bold">TRUST</span>
+            
+            </div>
+            <div className="col-sm border border-3 rounded border-white d-flex justify-content-center align-items-center text-center">
+            <span className="fw-bold">COMMUNICATION</span>
+            </div>
+            <div className="col-sm border border-3 rounded border-white d-flex justify-content-center align-items-center text-center">
+            <span className="fw-bold">LOYALTY</span>
+            </div>
+            <div className="col-sm border border-3 rounded border-white d-flex justify-content-center align-items-center text-center">
+            <span className="fw-bold">INTEGRITY</span>
+            </div>
+            <div className="col-sm border border-3 rounded border-white d-flex justify-content-center align-items-center text-center">
+            <span className="fw-bold">QUALITY</span>
+            </div>
+            
+          </div>
+        </div>
+      </section>
+      <section className="m-3">
+        <div className="mb-4">
+          <img src="https://ngratesc.sirv.com/nairet/17511.jpg" className="img-fluid rounded w-100"/>
+        </div>
+        <div className="row">
+          <div className="col-sm text-center">
+            <h3 className="fw-bold ">VISION</h3>
+            <p>To provie our clients an exceptional service at a reasonable rate</p>
+          </div>
+          <div className="col-sm text-center">
+            <h3 className="fw-bold">MISSION</h3>
+            <p>On a mission to deliver exceptional service to our clients, setting a benchmark for others to follow.</p>
+          </div>
+        </div>
       </section>
       <section className="t_bg  text-center text-white p-2">
       <h1 className="text-center pt-4 display-1 fw-bold">
