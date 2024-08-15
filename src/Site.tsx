@@ -1,3 +1,4 @@
+import Marquee from "react-fast-marquee"
 import { bg_img } from "./components/css_functions"
 function Site() {
   return (
@@ -13,14 +14,14 @@ function Site() {
 
           </div>
           <div>
-            <a href="tel:+263780090552" target="_blank"></a><button className="btn t_bg text-white rounded border-white border-2">Call Us</button>
+            <a href="tel:+263779911158" target="_blank"></a><button className="btn t_bg text-white rounded border-white border-2">Call Us</button>
           </div>
         </div>
       <section className="d-flex align-items-center" style={bg_img("https://ngratesc.sirv.com/nairet/Welcome.png")}>
     
         <div className="m-3">
           <h1 className="text- fw-bold mt-5 display-1"><span className="p_txt ">Construction</span> you <br/>can feel good<br/> about</h1>
-          <a href="https://wa.me/+263780090552" target="_blank"><button className="btn t_bg rounded border-2 border-white text-white">GET IN TOUCH</button></a>
+          <a href="https://wa.me/+263779911158" target="_blank"><button className="btn t_bg rounded border-2 border-white text-white">GET IN TOUCH</button></a>
         </div>
       </section>
       <section className="p-3">
@@ -39,7 +40,7 @@ function Site() {
             </div>
             <div className="col-sm">
               <img src="https://ngratesc.sirv.com/nairet/geyser.jpg" className="img-fluid rounded"   height={150}/>
-              <p className="fw-bold">Geyser Installtion</p>
+              <p className="fw-bold">Geyser Installation</p>
             </div>
             <div className="col-sm">
               <img src="https://ngratesc.sirv.com/nairet/watertanks.jpg" className="img-fluid rounded w-100" style={{height:"205px"}} height={150}/>
@@ -49,7 +50,7 @@ function Site() {
           </div>
        
           <div className="text-center">
-            <a href="https://wa.me/c/263"><button className="btn t_bg border border-2 border-white text-white">View Catalogue</button></a>
+            <a href="https://wa.me/c/263779911158"><button className="btn t_bg border border-2 border-white text-white">View Catalogue</button></a>
           </div>
         </div>
       </section>
@@ -116,27 +117,65 @@ Our commitment to excellence is matched only by our dedication to customer satis
           </div>
         </div>
       </section>
-      <section className="t_bg  text-center text-white p-2">
-      <h1 className="text-center pt-4 display-1 fw-bold">
-              Projects
+      <section className="  text-center  p-2">
+            <h1 className="text-center pt-4 display-1 fw-bold">
+                Projects
             </h1>
-        <div className="row m-2 d-flex align-items-center">
-          <div className="col-sm">
-            <h1 className="fw-bold display-3">Drain Laying   Marondera Megawatt Mall (ZEIPF)</h1>
-          </div>
-          <div className="col-sm">
-            <img src="https://ngratesc.sirv.com/nairet/marondera.jpg" className="img-fluid rounded"  width={500} />
-          </div>
-         
-        </div>
-        <div className="row m-2 d-flex align-items-center">
-        <div className="col-sm">
-            <img src="https://ngratesc.sirv.com/nairet/FkB4q11WIAAXTaX.jpg" className="img-fluid rounded" width={545} />          </div>
+            <div className="row text-start text-white m-2 ">
+              <div className="col-sm bg-primary rounded-start-top  p-3">
+                  <h5>Commercial</h5>
+                  <ul className="text-start">
+                    <li>MIPF</li>
+                    <li>Marondera Megawatt</li>
+                    <li>Sanganayi Flats CBZ</li>
+                    <li>First Mutual Cluster Units</li>
+                  </ul>
+              </div>
+              <div className="col-sm t_bg p-3">
+              <h5>Domestic</h5>
+                <ul>
+                  <li>Matshiya - Borrowdale</li>
+                  <li>Mabhiza - Chishawasha</li>
+                  <li>Chimbaru - Arlington</li>
+                </ul>
+              </div>
+              <div className="col-sm bg-warning  p-3">
+              <h5>Industrial</h5>
+                  <ul>
+                    <li>Procure Mart</li>
+                    <li>Norton Leaf</li>
+                  </ul>
+              </div>
+            </div>
+            <div className="m-3">
+              <h3>Partners we worked with</h3>
+              <Marquee>
+                <img src="https://ngratesc.sirv.com/nairet/download%20(1).jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download.jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download.png" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download%20(1).png" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/zimasco.png" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download%20(2).png" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download%20(1).jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download.jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download.png" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download%20(1).png" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/zimasco.png" className="img-fluid me-4" width={80}/>
+                <img src="https://ngratesc.sirv.com/nairet/download%20(2).png" className="img-fluid" width={80}/>
+              </Marquee>
+            </div>
+            <div className="row m-2">
+              <div className="col-sm gallery_height" style={bg_img("https://ngratesc.sirv.com/nairet/FkB4q11WIAAXTaX.jpg")}>
+              </div>
+              <div className="col-sm gallery_height" style={bg_img("https://ngratesc.sirv.com/nairet/marondera.jpg")}>
+
+              </div>
+              <div className="col-sm gallery_height" style={bg_img("https://ngratesc.sirv.com/nairet/borehole.jpg")}>
+
+              </div>
+
+            </div>
       
-        <div className="col-sm">
-            <h1 className="fw-bold display-3">Water Heater Installation  Sanganayi Apartments</h1>
-          </div>
-          </div>
       </section>
       <section className="m-2 p-5">
         <div>
@@ -187,7 +226,7 @@ Our commitment to excellence is matched only by our dedication to customer satis
             <p className="p_txt fw-bold">Get In Touch</p>
             <p>www.nairetconstruction.co.zw</p>
             <p>info@nairetconstruction.co.zw</p>
-            <p>+263 78 009 0552</p>
+            <p>+263 77 991 1158</p>
           </div>
           <div className="col-sm">
             <p className="p_txt fw-bold">Stay Connected</p>

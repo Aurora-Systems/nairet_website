@@ -48,3 +48,7 @@ button:active{
   color: var(--t_color) !important;
   border-color: var(--t_color) !important;
 }
+
+.gallery_height{
+  max-height: 300px;
+}
