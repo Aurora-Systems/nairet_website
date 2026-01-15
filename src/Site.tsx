@@ -10,14 +10,14 @@ function Site() {
           ">
           
           <div>
-          <img src="https://ngratesc.sirv.com/nairet/logo.png" width={200}/>
+          <img src="https://cdn.clipond.com/nairet/logo.png" width={200}/>
 
           </div>
           <div>
             <a href="tel:+263779911158" target="_blank"></a><button className="btn t_bg text-white rounded border-white border-2">Call Us</button>
           </div>
         </div>
-      <section className="d-flex align-items-center" style={bg_img("https://ngratesc.sirv.com/nairet/Welcome.png")}>
+      <section className="d-flex align-items-center" style={bg_img("https://cdn.clipond.com/nairet/Welcome.png")}>
     
         <div className="m-3">
           <h1 className="text- fw-bold mt-5 display-1"><span className="p_txt ">Construction</span> you <br/>can feel good<br/> about</h1>
@@ -31,19 +31,19 @@ function Site() {
           </div>
           <div className="row d-flex flex-row ">
           <div className="col-sm">
-              <img src="https://ngratesc.sirv.com/nairet/plumbing_service.jpg" className="img-fluid rounded"  height={150}/>
+              <img src="https://cdn.clipond.com/nairet/plumbing_service.jpg" className="img-fluid rounded"  height={150}/>
               <p className="fw-bold">Plumbing</p>
             </div>
             <div className="col-sm">
-              <img src="https://ngratesc.sirv.com/nairet/solar.jpg" className="img-fluid rounded" height={150}/>
+              <img src="https://cdn.clipond.com/nairet/solar.jpg" className="img-fluid rounded" height={150}/>
               <p className="fw-bold">Solar Installtion</p>
             </div>
             <div className="col-sm">
-              <img src="https://ngratesc.sirv.com/nairet/geyser.jpg" className="img-fluid rounded"   height={150}/>
+              <img src="https://cdn.clipond.com/nairet/geyser.jpg" className="img-fluid rounded"   height={150}/>
               <p className="fw-bold">Geyser Installation</p>
             </div>
             <div className="col-sm">
-              <img src="https://ngratesc.sirv.com/nairet/watertanks.jpg" className="img-fluid rounded w-100" style={{height:"205px"}} height={150}/>
+              <img src="https://cdn.clipond.com/nairet/watertanks.jpg" className="img-fluid rounded w-100" style={{height:"205px"}} height={150}/>
               <p className="fw-bold">Borehole Installation</p>
             </div>
           
@@ -69,7 +69,7 @@ Our commitment to excellence is matched only by our dedication to customer satis
             </p>
           </div>
           <div className="col-sm">
-            <img src="https://ngratesc.sirv.com/nairet/nairet.jpg"  className="img-fluid rounded" alt=""/>
+            <img src="https://cdn.clipond.com/nairet/nairet.jpg"  className="img-fluid rounded" alt=""/>
           </div>
 
         </div>
@@ -104,7 +104,7 @@ Our commitment to excellence is matched only by our dedication to customer satis
       </section>
       <section className="m-3">
         <div className="mb-4">
-          <img src="https://ngratesc.sirv.com/nairet/17511.jpg" className="img-fluid rounded w-100"/>
+          <img src="https://cdn.clipond.com/nairet/17511.jpg" className="img-fluid rounded w-100"/>
         </div>
         <div className="row">
           <div className="col-sm text-center">
@@ -150,27 +150,27 @@ Our commitment to excellence is matched only by our dedication to customer satis
             <div className="m-3">
               <h3>Partners we worked with</h3>
               <Marquee>
-                <img src="https://ngratesc.sirv.com/nairet/download%20(1).jpeg" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download.jpeg" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download.png" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download%20(1).png" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/zimasco.png" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download%20(2).png" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download%20(1).jpeg" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download.jpeg" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download.png" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download%20(1).png" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/zimasco.png" className="img-fluid me-4" width={80}/>
-                <img src="https://ngratesc.sirv.com/nairet/download%20(2).png" className="img-fluid" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download%20(1).jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download.jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download.png" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download%20(1).png" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/zimasco.png" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download%20(2).png" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download%20(1).jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download.jpeg" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download.png" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download%20(1).png" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/zimasco.png" className="img-fluid me-4" width={80}/>
+                <img src="https://cdn.clipond.com/nairet/download%20(2).png" className="img-fluid" width={80}/>
               </Marquee>
             </div>
             <div className="row m-2">
-              <div className="col-sm gallery_height" style={bg_img("https://ngratesc.sirv.com/nairet/FkB4q11WIAAXTaX.jpg")}>
+              <div className="col-sm gallery_height" style={bg_img("https://cdn.clipond.com/nairet/FkB4q11WIAAXTaX.jpg")}>
               </div>
-              <div className="col-sm gallery_height" style={bg_img("https://ngratesc.sirv.com/nairet/marondera.jpg")}>
+              <div className="col-sm gallery_height" style={bg_img("https://cdn.clipond.com/nairet/marondera.jpg")}>
 
               </div>
-              <div className="col-sm gallery_height" style={bg_img("https://ngratesc.sirv.com/nairet/borehole.jpg")}>
+              <div className="col-sm gallery_height" style={bg_img("https://cdn.clipond.com/nairet/borehole.jpg")}>
 
               </div>
 
@@ -217,10 +217,10 @@ Our commitment to excellence is matched only by our dedication to customer satis
             </div>
           </div>
       </section>
-      <section style={{backgroundImage:"url(https://ngratesc.sirv.com/nairet/Welcome.png)"}}>
+      <section style={{backgroundImage:"url(https://cdn.clipond.com/nairet/Welcome.png)"}}>
         <div className="row m-2 ">
         <div className="col-sm">
-          <img src="https://ngratesc.sirv.com/nairet/logo.png" className="img-fluid"/>
+          <img src="https://cdn.clipond.com/nairet/logo.png" className="img-fluid"/>
         </div>
           <div className="col-sm">
             <p className="p_txt fw-bold">Get In Touch</p>
